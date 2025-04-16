@@ -60,11 +60,12 @@
 
 <p><strong> Graduate Teaching Assistant      |       Chatham University     |      (<i>Aug 2021 - May 2022</i>) </strong></p>
 
-**Spring 2022 |  BIOL144L- The Organism Lab**
+
+<p><strong> BIOL144L- The Organism Lab |    Chatham University   |    (<i>Spring 2022</i>)  <p><strong> 
 - Instructed students on phylogenetic trees, plant morphology, slide preparation, microscopy techniques, bacteriophage isolation, and fetal pig dissection
 - Set up practical exams, graded assignments and exams, and entered grades in BrightSpace grading system
 
-**Fall 2021 |    BIOL135- Applied Human Biology**
+**BIOL135- Applied Human Biology |   Chatham University    | (_Fall 2021_)**
 - Graded assignments and exams, entered grades into BrightSpace
 - Held meetings and study sessions before exams
 
