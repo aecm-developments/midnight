@@ -11,11 +11,11 @@
 # Research Scientist
 
 
-#### Laboratory Skills: Cell culture, human and mouse sample collection and handling, RNA and DNA extraction, EV isolation, RNA library preparation, Bulk Sequencing, Western Blotting, ELISA, Chemical Inventory
+#### **Laboratory Skills:** Cell culture, human and mouse sample collection and handling, RNA and DNA extraction, EV isolation, RNA library preparation, Bulk Sequencing, Western Blotting, ELISA, Chemical Inventory
 
-#### Computer Skills: R, Python, HTML, CSS, GraphPad Prism, ImageJ, Microsoft Office, LibreOffice (Linux, Windows, Mac)
+#### **Computer Skills:** R, Python, HTML, CSS, GraphPad Prism, ImageJ, Microsoft Office, LibreOffice (Linux, Windows, Mac)
 
-#### Other Skills: Sales, Customer Service, Money Handling, Training and Teaching
+#### **Other Skills:** Sales, Customer Service, Money Handling, Training and Teaching
 
 
 ## Education
